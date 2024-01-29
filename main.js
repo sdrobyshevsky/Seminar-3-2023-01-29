@@ -46,6 +46,7 @@
                 text.length + ' символов<br>' +
                 '<b>Без пробелов:</b> ' + withoutSpaces + '<br>' +
                 '<b>Количество слов:</b> ' + wordsCount;
+
         });
 
         textArea.addEventListener('keyup', function(){

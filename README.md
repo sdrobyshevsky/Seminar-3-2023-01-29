@@ -7,3 +7,4 @@ Valentin String
 kobzev E
 
 удалите новую строку
+добавить новую

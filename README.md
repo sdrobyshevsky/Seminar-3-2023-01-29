@@ -6,3 +6,4 @@ Console.WriteLine("Hello, World!");
 Valentin String
 kobzev E
 
+удалите новую строку
